@@ -54,5 +54,6 @@ public class MainActivity extends AppCompatActivity {
 
         Log.i(TAG, "单独: "+status.getDate());
 //        得到的
+        
     }
 }
